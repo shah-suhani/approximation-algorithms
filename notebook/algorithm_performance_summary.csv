@@ -1,0 +1,5 @@
+Algorithm,SmallestCoverWins,FastestWins
+GreedyMIS,14,46.0
+LP_Rounding,16,0.0
+NeighborCover,6,0.0
+ParallelNeighborCover,13,3.0
