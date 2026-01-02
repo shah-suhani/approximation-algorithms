@@ -2,7 +2,7 @@
 
 This repository presents an experimental study of **approximation and heuristic algorithms for the Vertex Cover problem**, a classical **NP-hard problem** in graph theory.
 
-The goal of this project is to empirically evaluate how different approximation strategies perform in practice, focusing on the trade-off between **solution quality** (size of the vertex cover) and **runtime efficiency** across randomly generated graphs.
+The goal of this study is to empirically evaluate how different approximation strategies perform in practice, focusing on the trade-off between **solution quality** (size of the vertex cover) and **runtime efficiency** across randomly generated graphs.
 
 ---
 
